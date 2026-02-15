@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(ps4-assets/disconnected.svg);
+    background: url(toxiccontroller.png);
 }
 
 .ds4.disconnected div {
@@ -277,3 +277,4 @@ background-position: 0 -70px;
 }
 
 /*END PS4 Controller Styling*/
+
